@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "18356734557",
+    "firebase_url": "https://tankrush-745ef-default-rtdb.firebaseio.com",
+    "project_id": "tankrush-745ef",
+    "storage_bucket": "tankrush-745ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18356734557:android:9d3fd13b59dc1d46479bb4",
+        "android_client_info": {
+          "package_name": "com.firebasedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM22VWzr4tX_dwO-vRurTTN2Wor1HS1GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
